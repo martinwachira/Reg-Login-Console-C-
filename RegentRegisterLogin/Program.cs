@@ -11,9 +11,9 @@ namespace RegentRegisterLogin
     // declared class to hold variable paths //
     public class Paths_
     {
-        public static string usrPath = @"C:\\Users\\wcr\\Desktop\\RegentCollege\\username.txt";
-        public static string passPath = @"C:\\Users\\wcr\\Desktop\\RegentCollege\\password.txt";
-        public static string timePath = @"C:\\Users\\wcr\\Desktop\\RegentCollege\\time.txt";
+        public static string usrPath = @"C:\Users\wcr\Desktop\RegentCollege\username.txt";
+        public static string passPath = @"C:\Users\wcr\Desktop\RegentCollege\password.txt";
+        public static string timePath = @"C:\Users\wcr\Desktop\RegentCollege\time.txt";
         public static string mainMsg = @"Welcome. What would you like to do?
                 *********************
                     1 Login
@@ -79,15 +79,21 @@ namespace RegentRegisterLogin
                             Console.ReadKey();
                             goto start;
                         }
-                        foreach (string name in username)//runs through the username list
+
+                        //loops through the username list
+                        foreach (string name in username)
                         {
-                            if (name == input)//returns true if it finds a match in the list
+                            //returns true a match is found
+                            if (name == input)
                             {
-                                int listNo = username.IndexOf(input);//sets the listNo to the index number of the password list that matched
+                                //sets the list to the index number of the password list that matched
+                                int listNo = username.IndexOf(input);
                                 Console.WriteLine("What is your password?");
                                 input = Console.ReadLine();
-                                string passCheck = Convert.ToString(password[listNo]);//sets the passCheck var to the string index no found at the same index as the user name
-                                if (input == passCheck) //if the input and the passCheck are the same you logged in
+                                string passCheck = Convert.ToString(password[listNo]);
+
+                                //user gets logged in once the credentials match
+                                if (input == passCheck) 
                                 {
                                     ID = listNo;//sets the user id
                                     string lastLogin = Convert.ToString(time[ID]);//gets the last login from the time list
@@ -247,6 +253,8 @@ namespace RegentRegisterLogin
         {
             // create object of class Program
             Program prog = new Program();
+
+            // handle errors here
             try
             {
                 // call RegisterLogin method here
