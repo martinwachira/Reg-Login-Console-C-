@@ -4,15 +4,16 @@ namespace Fibonacci_Sequence
 {
     class Program
     {
-        static void Main(string[] args)
+        public void FibSeq()
         {
             int _firstnum = 0, _secondnum = 1, _nextNum, _elmsArray;
-            Console.Write("Enter the number of desired elements : ");
-            _elmsArray = int.Parse(Console.ReadLine());
 
             // implement error catch method here
             try
             {
+                Console.Write("Enter the number of desired elements : ");
+                _elmsArray = int.Parse(Console.ReadLine());
+
                 if (_elmsArray < 2)
                 {
                     Console.Write("Please Enter a number greater than two");
@@ -31,10 +32,16 @@ namespace Fibonacci_Sequence
                     }
                 }
                 Console.ReadKey();
-            } catch
+            }
+            catch
             {
                 Console.WriteLine("Some Error Occured. Try again");
             }
+        }
+        static void Main(string[] args)
+        {
+            Program p = new Program();
+            p.FibSeq();
         }
     }
 }
