@@ -27,28 +27,28 @@ namespace NumsFactorial
             {
                 string inputMsg;
                 prog.FactorialMethod();
-                Console.WriteLine("Do you want to Quit? \n 1. No \n 2. Yes \n");
+                Console.WriteLine("Do you wish to Continue? \n 1. Yes \n 2. No \n");
                 inputMsg = Console.ReadLine();
 
                 switch (inputMsg)
                 {
-                    case "No":
+                    case "Yes":
                         prog.FactorialMethod();
                         do
                         {
-                            Console.WriteLine("Do you want to Quit? \n 1. No \n 2. Yes \n");
+                            Console.WriteLine("Do you wish to Continue? \n 1. yes \n 2. No \n");
                             inputMsg = Console.ReadLine();
-                            if(inputMsg == "No")
+                            if(inputMsg == "Yes")
                             {
                                 prog.FactorialMethod();
                             }
                         }
-                        while (inputMsg == "No");
-                        if(inputMsg == "Yes"){
+                        while (inputMsg == "Yes");
+                        if(inputMsg == "No"){
                             Console.WriteLine("You're being loged out, Thanks for using this Program... ");
                         }
                         break;
-                    case "Yes":
+                    case "No":
                         Console.WriteLine("Logging out... ");
                         break;
                     default:
