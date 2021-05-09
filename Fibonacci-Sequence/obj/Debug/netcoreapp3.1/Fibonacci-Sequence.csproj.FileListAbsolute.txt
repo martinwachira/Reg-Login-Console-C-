@@ -1,0 +1,13 @@
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.exe
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.deps.json
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.runtimeconfig.json
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.runtimeconfig.dev.json
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.dll
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\bin\Debug\netcoreapp3.1\Fibonacci-Sequence.pdb
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.csprojAssemblyReference.cache
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.AssemblyInfoInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.AssemblyInfo.cs
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.csproj.CoreCompileInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.dll
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.pdb
+C:\Users\wcr\Desktop\RegentCollege\Fibonacci-Sequence\obj\Debug\netcoreapp3.1\Fibonacci-Sequence.genruntimeconfig.cache

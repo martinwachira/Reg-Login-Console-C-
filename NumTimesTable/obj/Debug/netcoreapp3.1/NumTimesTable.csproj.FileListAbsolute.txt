@@ -1,0 +1,13 @@
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.exe
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.deps.json
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.runtimeconfig.json
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.runtimeconfig.dev.json
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.dll
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\bin\Debug\netcoreapp3.1\NumTimesTable.pdb
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.csprojAssemblyReference.cache
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.AssemblyInfoInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.AssemblyInfo.cs
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.csproj.CoreCompileInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.dll
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.pdb
+C:\Users\wcr\Desktop\RegentCollege\NumTimesTable\obj\Debug\netcoreapp3.1\NumTimesTable.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oL61jzNT8XdoscMMCLphl3Rm1/Ecd4K0Xen5b6MVK0+nvbcJOumB8WDIuhUuhdDwIRiacAH6Gs4+Kv/n6yIbZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wcr\\Desktop\\RegentCollege\\NumTimesTable\\NumTimesTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

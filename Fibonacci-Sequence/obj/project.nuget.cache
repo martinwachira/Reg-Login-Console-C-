@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFLUMSocGPt44QfkpnZytHGZ1OtGLmBTNgzXxYzJENXSLzScMnXArprr2/4GCpxh/1WHO6JzQ2gBCOB+HaJS6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wcr\\Desktop\\RegentCollege\\Fibonacci-Sequence\\Fibonacci-Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

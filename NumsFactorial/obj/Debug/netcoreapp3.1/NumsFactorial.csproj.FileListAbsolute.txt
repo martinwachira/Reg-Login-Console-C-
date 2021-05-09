@@ -1,0 +1,13 @@
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.AssemblyInfoInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.AssemblyInfo.cs
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.csproj.CoreCompileInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.exe
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.deps.json
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.runtimeconfig.json
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.runtimeconfig.dev.json
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.dll
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\bin\Debug\netcoreapp3.1\NumsFactorial.pdb
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.dll
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.pdb
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.genruntimeconfig.cache
+C:\Users\wcr\Desktop\RegentCollege\NumsFactorial\obj\Debug\netcoreapp3.1\NumsFactorial.csprojAssemblyReference.cache
