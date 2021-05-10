@@ -1,0 +1,13 @@
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.exe
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.deps.json
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.runtimeconfig.json
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.runtimeconfig.dev.json
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.dll
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\bin\Debug\netcoreapp3.1\RegistrationLoginProgram.pdb
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.csprojAssemblyReference.cache
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.AssemblyInfoInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.AssemblyInfo.cs
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.csproj.CoreCompileInputs.cache
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.dll
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.pdb
+C:\Users\wcr\Desktop\RegentCollege\RegistrationLoginProgram\obj\Debug\netcoreapp3.1\RegistrationLoginProgram.genruntimeconfig.cache

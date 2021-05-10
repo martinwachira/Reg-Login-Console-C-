@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vg6rmVX1OLGnEfMjNUMHaK4euLW7/vRBwMw21TetsVQfIIYDhagKssYtR3R7Mh4gzoTlWgkMfbUSFL8whTdfSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wcr\\Desktop\\RegentCollege\\RegistrationLoginProgram\\RegistrationLoginProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wcr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
